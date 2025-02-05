@@ -40,8 +40,8 @@ reset
   display: block;
   height: auto;
   width: 100px; /* Adjust the width as needed */
-  margin-left: 300px; /* Adjust based on your design */
-  margin-top: 10px;
+  margin-left: 10px; /* Adjust based on your design */
+  margin-top: 7px;
   margin-bottom: 5px;
 }
 
